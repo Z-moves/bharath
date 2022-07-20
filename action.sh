@@ -1,5 +1,6 @@
 pwd
 ls
+docker build
 git clone https://github.com/TeamUltroid/Ultroid
 cd Ultroid
 cat >> .env << EOF

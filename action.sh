@@ -4,7 +4,7 @@ docker build
 git clone https://github.com/TeamUltroid/Ultroid
 cd Ultroid
 cat >> .env << EOF
-API_ID=2944001
+API_ID=2944001 
 API_HASH=d1ee4ef88539a4a795dc7e2dfed57d60
 REDIS_URI=redis-12049.c56.east-us.azure.cloud.redislabs.com:12049
 REDIS_PASSWORD=002n7vKob6MBs5xGO445wUgem94vG6xU
